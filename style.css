@@ -1,0 +1,56 @@
+*{
+   background-color: black; 
+}
+
+h1{
+    color:bisque
+}
+
+h2{
+   color: azure;
+}
+
+h5{
+    color: blanchedalmond;
+}
+h4{
+    background-color: red;  
+}
+
+
+#p{
+    color: beige;
+}
+
+h4{
+    color: azure;
+}
+
+h5{
+    color: blanchedalmond;
+}
+
+#ol{
+    color: azure;
+}
+
+h3{
+    color: whitesmoke;
+}
+
+#fale{
+    color: white;
+}
+#true{
+    color: whitesmoke;
+}
+
+#p{
+    color: white;
+}
+
+#id-selector-demo{
+    color: blue;
+}
+
+
